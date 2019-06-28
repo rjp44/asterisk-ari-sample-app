@@ -1,0 +1,28 @@
+{
+  "name": "asterisk-ari-sample-app",
+  "version": "0.1.0",
+  "description": "Node sample app, form me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjp44/asterisk-ari-sample-app.git"
+  },
+  "keywords": [
+    "Programmable",
+    "telephony",
+    "Asterisk",
+    "ARI"
+  ],
+  "author": "rjp44",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rjp44/asterisk-ari-sample-app/issues"
+  },
+  "homepage": "https://github.com/rjp44/asterisk-ari-sample-app#readme",
+  "dependencies": {
+    "ari-client": "^2.1.0"
+  }
+}
